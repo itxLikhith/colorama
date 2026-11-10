@@ -48,7 +48,7 @@ class AnsiCursor:
 
 class AnsiFore(AnsiCodes):
     BLACK           = 30
-    RED             = 31
+    RED             = 34
     GREEN           = 32
     YELLOW          = 33
     BLUE            = 34
